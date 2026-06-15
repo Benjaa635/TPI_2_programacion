@@ -1,0 +1,48 @@
+nombre,poblacion,superficie,continente
+Argentina,45376763,2780400,America
+Brasil,214000000,8515767,America
+Chile,19600000,756102,America
+Uruguay,3400000,176215,America
+Paraguay,6800000,406752,America
+Bolivia,12300000,1098581,America
+Peru,34000000,1285216,America
+Colombia,53000000,1141748,America
+Venezuela,28500000,916445,America
+Mexico,131000000,1964375,America
+Estados Unidos,340000000,9833520,America
+Canada,41000000,9984670,America
+España,48500000,505990,Europa
+Francia,68000000,551695,Europa
+Alemania,84500000,357588,Europa
+Italia,59000000,301340,Europa
+Portugal,10500000,92212,Europa
+Reino Unido,69000000,243610,Europa
+Paises Bajos,18000000,41543,Europa
+Belgica,11800000,30528,Europa
+Suiza,8900000,41285,Europa
+Suecia,10600000,450295,Europa
+China,1412000000,9596961,Asia
+India,1430000000,3287263,Asia
+Japon,123000000,377975,Asia
+Corea del Sur,52000000,100210,Asia
+Indonesia,281000000,1904569,Asia
+Pakistan,255000000,881913,Asia
+Bangladesh,175000000,148460,Asia
+Vietnam,101000000,331212,Asia
+Tailandia,72000000,513120,Asia
+Arabia Saudita,38000000,2149690,Asia
+Egipto,112000000,1002450,Africa
+Nigeria,227000000,923768,Africa
+Sudafrica,63000000,1221037,Africa
+Argelia,47000000,2381741,Africa
+Marruecos,38000000,446550,Africa
+Kenia,56000000,580367,Africa
+Etiopia,132000000,1104300,Africa
+Ghana,35000000,238535,Africa
+Tanzania,69000000,947303,Africa
+Tunez,13000000,163610,Africa
+Australia,27000000,7692024,Oceania
+Nueva Zelanda,5300000,268021,Oceania
+Papua Nueva Guinea,11000000,462840,Oceania
+Fiyi,930000,18274,Oceania
+Samoa,220000,2842,Oceania

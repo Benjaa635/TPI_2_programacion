@@ -1,5 +1,5 @@
 nombre,poblacion,superficie,continente
-Argentina,45376763,2780400,America
+Argentina,4500002,2780400,America
 Brasil,214000000,8515767,America
 Chile,19600000,756102,America
 Uruguay,3400000,176215,America
@@ -46,3 +46,4 @@ Nueva Zelanda,5300000,268021,Oceania
 Papua Nueva Guinea,11000000,462840,Oceania
 Fiyi,930000,18274,Oceania
 Samoa,220000,2842,Oceania
+Bac,20000,90000,Europa
